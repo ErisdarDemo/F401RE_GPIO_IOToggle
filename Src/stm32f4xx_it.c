@@ -1,6 +1,6 @@
 /**
   ******************************************************************************
-  * @file    GPIO/GPIO_IOToggle/Src/stm32f4xx_it.c 
+  * @file    GPIO/F401RE_GPIO_IOToggle/Src/stm32f4xx_it.c 
   * @author  MCD Application Team
   * @brief   Main Interrupt Service Routines.
   *          This file provides template for all exceptions handler and 
@@ -26,7 +26,7 @@
   * @{
   */
 
-/** @addtogroup GPIO_IOToggle
+/** @addtogroup F401RE_GPIO_IOToggle
   * @{
   */
 

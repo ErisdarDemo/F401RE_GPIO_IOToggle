@@ -1,9 +1,9 @@
 /**
-  @page GPIO_IOToggle GPIO IO Toggle example
+  @page F401RE_GPIO_IOToggle GPIO IO Toggle example
   
   @verbatim
   ******************** (C) COPYRIGHT 2017 STMicroelectronics *******************
-  * @file    GPIO/GPIO_IOToggle/readme.txt  
+  * @file    GPIO/F401RE_GPIO_IOToggle/readme.txt  
   * @author  MCD Application Team
   * @brief   Description of the GPIO EXTI example.
   ******************************************************************************
@@ -46,12 +46,12 @@ System, GPIO, Output, Alternate function, Push-pull, Toggle
 
 @par Directory contents 
 
-  - GPIO/GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h    HAL configuration file
-  - GPIO/GPIO_IOToggle/Inc/stm32f4xx_it.h          Interrupt handlers header file
-  - GPIO/GPIO_IOToggle/Inc/main.h                  Main program header file  
-  - GPIO/GPIO_IOToggle/Src/stm32f4xx_it.c          Interrupt handlers
-  - GPIO/GPIO_IOToggle/Src/main.c                  Main program
-  - GPIO/GPIO_IOToggle/Src/system_stm32f4xx.c      STM32F4xx system clock configuration file
+  - GPIO/F401RE_GPIO_IOToggle/Inc/stm32f4xx_hal_conf.h    HAL configuration file
+  - GPIO/F401RE_GPIO_IOToggle/Inc/stm32f4xx_it.h          Interrupt handlers header file
+  - GPIO/F401RE_GPIO_IOToggle/Inc/main.h                  Main program header file  
+  - GPIO/F401RE_GPIO_IOToggle/Src/stm32f4xx_it.c          Interrupt handlers
+  - GPIO/F401RE_GPIO_IOToggle/Src/main.c                  Main program
+  - GPIO/F401RE_GPIO_IOToggle/Src/system_stm32f4xx.c      STM32F4xx system clock configuration file
 
 
 @par Hardware and Software environment
